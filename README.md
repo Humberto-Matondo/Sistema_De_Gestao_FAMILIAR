@@ -25,6 +25,6 @@ Para desenvolver este projeto eu usei as seguintes linguagens de programação:
 
 ## Getting started
 
-- Intale e configure um servidor qualquer em seu computador, pois o programa vai precisar armazenar alguns dados e informações.
-- Intale uma IDE para a leitura do codigo JAVA.
+- Instale e configure um servidor qualquer em seu computador, pois o programa vai precisar armazenar alguns dados e informações.
+- Instale uma IDE para a leitura do codigo JAVA.
 - Execute o programa 
